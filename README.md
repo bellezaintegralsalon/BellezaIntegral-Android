@@ -3,7 +3,7 @@
 Aplicación Android nativa para clientes de Belleza Integral.
 
 Backend:
-https://bellezaintegral-production.up.railway.app/api/v1/
+https://bellezaintegralgt.up.railway.app/api/v1/
 
 Stack:
 - Kotlin
